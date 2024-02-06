@@ -25,7 +25,7 @@ basic_colors = {
 
 # Input and output directories
 input_folder = 'labels'
-output_folder = 'output_colored_masks'
+output_folder = 'output_colored_labels'
 
 # Create output directory if it doesn't exist
 if not os.path.exists(output_folder):
