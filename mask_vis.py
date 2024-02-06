@@ -6,7 +6,7 @@ from PIL import Image
 color_map = {
     0: [0, 0, 0],     # Class 0 - Background (Black)
     1: [0, 255, 0],   # Class 1 - flatSurface (Green)
-    2: [0, 255, 0],   # Class 2 - excavation (Red)
+    2: [255, 0, 0],   # Class 2 - excavation (Red)
     3: [255, 0, 255], # Class 3 - building (Purple)
     4: [255, 255, 0]  # Class 4 - foundation (Yellow)
 }
