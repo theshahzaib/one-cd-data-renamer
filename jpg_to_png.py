@@ -29,7 +29,7 @@ if __name__ == "__main__":
     file_list = os.listdir(folder_path)
     
     # Number of threads to use
-    num_threads = min(8, len(file_list))  # Adjust the number of threads as needed
+    num_threads = min(os.cpu_count(), len(file_list))  # Adjust the number of threads as needed
     
     with concurrent.futures.ThreadPoolExecutor(max_workers=num_threads) as executor:
         # Submit conversion tasks to the thread pool
