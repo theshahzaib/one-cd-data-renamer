@@ -4,17 +4,17 @@ Classes = 3
 Classes = 4
 1-flatSurface, 2-excavation, 3-foundation, 4-building
 
-Given
+Given:
 cd_data_bahria_town_isb_n2
 cd_data_newcity_wah_nn2
 cd_data_park_view_city_n2
 park_view_p2.v1i.png-mask-semantic
-
-Done
 park_view_p1.v1i.png-mask-semantic
-park_view_p3
+park_view_p3_c3.v1i.png-mask-semantic
 
-Rem
-park_view_p4
+Done:
 park_view_p5
+
+Remains:
+park_view_p4
 park_view_p6
