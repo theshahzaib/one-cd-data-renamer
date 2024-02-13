@@ -11,10 +11,12 @@ cd_data_park_view_city_n2
 park_view_p2.v1i.png-mask-semantic
 park_view_p1.v1i.png-mask-semantic
 park_view_p3_c3.v1i.png-mask-semantic
-
-Done:
 park_view_p5_patch_1_2*
 
-Remains:
+
+Done:
 park_view_p4
+
+
+Remains:
 park_view_p6
