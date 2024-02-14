@@ -12,11 +12,13 @@ park_view_p2.v1i.png-mask-semantic
 park_view_p1.v1i.png-mask-semantic
 park_view_p3_c3.v1i.png-mask-semantic
 park_view_p5_patch_1_2*
-
-
-Done:
 park_view_p4
 
 
+Finalizing:
+park_view_p7
+
+
 Remains:
-park_view_p6
+park_view_patch_3_1_p8
+
