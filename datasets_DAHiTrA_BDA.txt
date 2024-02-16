@@ -21,5 +21,9 @@ park_view_p7
 
 
 Remains:
+...
 
 
+Relabeling:
+cd_data_bahria_town_isb_n2
+cd_data_newcity_wah_nn2
