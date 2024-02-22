@@ -11,12 +11,14 @@ cd_data_park_view_city_n2 = cd_data_park_view_city_c4
 park_view_p2.v1i.png-mask-semantic = park_view_p2_c4
 park_view_p1.v1i.png-mask-semantic = park_view_p1_c4
 park_view_p3_c3.v1i.png-mask-semantic = park_view_p3_c4
-park_view_p5_patch_1_2* = 
-park_view_p4 = 
-park_view_patch_3_1_p8 = 
+park_view_p5_patch_1_2* = park_view_p5_c4
+park_view_p4 = park_view_p4_c4
+park_view_patch_3_1_p8 = park_view_patch_3_1_p8_c4
 
 
 Finalizing:
+park_view_p5_patch_1_2* = park_view_p5_c4
+park_view_patch_3_1_p8 = park_view_patch_3_1_p8_c4
 park_view_p7
 
 
@@ -31,5 +33,8 @@ park_view_p13
 
 
 Relabeling:
-cd_data_bahria_town_isb_n2
-cd_data_newcity_wah_nn2
+cd_data_bahria_town_isb_n2 = cd_data_bahria_town_isb_n1_c4 *
+cd_data_newcity_wah_nn2 = cd_data_newcity_wah_c4 *
+cd_data_park_view_city_n2 = cd_data_park_view_city_c4 *
+park_view_p2.v1i.png-mask-semantic = park_view_p2_c4 *
+park_view_p1.v1i.png-mask-semantic = park_view_p1_c4 *
