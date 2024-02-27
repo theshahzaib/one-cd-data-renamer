@@ -19,7 +19,7 @@ park_view_patch_3_1_p8 = park_view_patch_3_1_p8_c4
 Finalizing:
 park_view_p5_patch_1_2* = park_view_p5_c4
 park_view_patch_3_1_p8 = park_view_patch_3_1_p8_c4
-park_view_p7
+park_view_p7 = park_view_p7_c4
 
 
 Remains:
