@@ -22,8 +22,7 @@ park_view_patch_3_1_p8 = park_view_patch_3_1_p8_c4
 
 
 Finalizing:
-park_view_p8
-park_view_p9
+park_view_patch_3_2_p9
 
 
 
