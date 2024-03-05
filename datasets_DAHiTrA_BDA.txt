@@ -22,25 +22,21 @@ park_view_patch_3_1_p8 = park_view_patch_3_1_p8_c4
 
 
 Finalizing:
-park_view_patch_3_2_p9
-
+park_view_patch_3_2_p9_c4
+park_view_patch_3_3_p10_c4
 
 
 
 Remains:
 
-park_view_p10
-park_view_p11
-park_view_p12
-park_view_p13
+park_view_patch_2_0_p10_c4
+park_view_patch_3_0_p11_c4
+
+
 ...
 
 
 Relabeling:
-cd_data_bahria_town_isb_n2 = cd_data_bahria_town_isb_n1_c4 *
-cd_data_newcity_wah_nn2 = cd_data_newcity_wah_c4 *
-cd_data_park_view_city_n2 = cd_data_park_view_city_c4 *
-park_view_p2.v1i.png-mask-semantic = park_view_p2_c4 *
-park_view_p1.v1i.png-mask-semantic = park_view_p1_c4 *
+
 
 1249004397
