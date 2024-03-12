@@ -17,17 +17,19 @@ park_view_patch_3_1_p8 = park_view_patch_3_1_p8_c4
 park_view_p7 = park_view_p7_c4
 park_view_p5_patch_1_2* = park_view_p5_c4
 park_view_patch_3_1_p8 = park_view_patch_3_1_p8_c4
-
 park_view_patch_3_2_p9_c4
 park_view_patch_3_3_p10_c4
 
 Finalizing:
 park_view_patch_2_0_p11_c4
 
-
-Remains:
 bolari_patch_1_1
 bolari_patch_1_2
+bolari_patch_1_3
+
+
+Remains:
+bolari_patch_2_0
 
 
 
