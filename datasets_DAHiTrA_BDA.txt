@@ -23,7 +23,6 @@ park_view_patch_3_3_p10_c4
 Finalizing:
 park_view_patch_2_0_p11_c4
 bolari_patch_1_2
-
 bolari_patch_1_1
 bolari_patch_1_3
 
@@ -32,6 +31,7 @@ Remains:
 bolari_patch_2_0
 bolari_patch_2_2
 bolari_patch_2_3
+
 bolari_patch_3_1
 
 ...
