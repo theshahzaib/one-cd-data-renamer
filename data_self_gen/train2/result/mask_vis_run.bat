@@ -1,1 +1,0 @@
-python mask_vis.py
