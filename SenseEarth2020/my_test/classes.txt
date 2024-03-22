@@ -1,0 +1,7 @@
+0 background (white/black)
+1 water ()
+2 ground (grey)
+3 low vegetation (dark green)
+4 tree (light green)
+5 building (red)
+6 playground ()
